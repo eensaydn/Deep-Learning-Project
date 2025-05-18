@@ -15,11 +15,15 @@ pip install -r requirements.txt
 streamlit run app.py   
 ```
 # 📌 Example
+```bash
 Input: "This movie is so good"
 Output: "Sentiment: Positive | Prediction Score: 0.95"
+```
 
 # 📁 Project Structure
+```bash
 ├── README.md
 ├── requirements.txt
 ├── app.py                # Streamlit app
 └── simple_rnn_imdb.h5    # Pre-trained model
+```

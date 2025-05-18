@@ -2,8 +2,8 @@
 
 A simple Streamlit app for IMDB movie review sentiment analysis using a pre-trained RNN model (simple_rnn_imdb.h5) with TensorFlow/Keras.
 
-# 🚀 How to Run
-'''bash
+## 🚀 How to Run
+```bash
 # Clone the repository
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name

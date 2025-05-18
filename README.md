@@ -12,8 +12,8 @@ cd your-repo-name
 pip install -r requirements.txt
 
 # Run the app
-streamlit run app.py
-
+streamlit run app.py   
+```
 # 📌 Example
 Input: "This movie is so good"
 Output: "Sentiment: Positive | Prediction Score: 0.95"

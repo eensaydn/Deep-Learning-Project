@@ -5,7 +5,7 @@ A simple Streamlit app for IMDB movie review sentiment analysis using a pre-trai
 ## 🚀 How to Run
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/eensaydn/Deep-Learning-Project.git
 cd your-repo-name
 
 # Install dependencies
